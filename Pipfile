@@ -9,6 +9,7 @@ verify_ssl = true
 tensorflow = "*"
 matplotlib = "*"
 keras = "*"
+autopep8 = "*"
 
 [requires]
 python_version = "3.8"
